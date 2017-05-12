@@ -1,0 +1,141 @@
+body {
+	background-color: white;
+  	padding-left: 20px;
+  	/*border-style: solid;
+  	border-width: 5px;
+  	border-radius: 10px;
+  	/*border-color: Black;*/*/
+	
+}
+
+#header {
+  	background-color: #001f3f;
+  	height: 100px;
+  	width: 100%;
+  	margin: 0px 0px 0px -20px;
+  	padding-left: 20px;
+  	border-style: solid;
+  	border-width: 5px;
+  	border-radius: 10px;
+  	border-color: White;s
+}
+
+#header h1 {
+  	font-size: 60px;
+  	color: White;
+  	font-family: Helvetica;
+  	line-height: 160px;
+  	margin: -30px 0px 0px 0px;
+}
+
+#navigation ul {
+  	margin: 0;
+  	padding: 0;
+  	list-style: none;
+  	margin: -80px 0px 0px 700px;
+}
+
+#navigation ul li {
+  	display: inline-block;
+  	width: 150px;
+  	background-color: #001f3f;
+  	text-align: center;
+  	font-size: 20px;
+  	height: 37px;
+  	line-height: 37px;
+  	color: black;
+  	border-style: solid;
+  	border-width: 5px;
+  	border-radius: 10px;
+  	border-color: White;
+}
+
+#navigation ul li:hover {
+  	opacity: 0.8;
+}
+
+#background {
+	background-color: #001f3f;
+  	height: 700px;
+  	width: 100%;
+  	margin: 30px 0px 0px -20px;
+  	padding-left: 20px;
+  	border-style: solid;
+  	border-width: 5px;
+  	border-radius: 10px;
+  	border-color: White;s
+}
+
+#main-header {
+	font-size: 30px;
+	text-align: left;
+  	color: White;
+  	font-family: Helvetica;
+  	line-height: 160px;
+  	margin: -30px 0px 0px 0px;
+}
+
+#profile-photo img {
+	margin: -80px 0px 0px 1000px;
+  	padding-left: 20px;
+  	border-style: solid;
+  	border-width: 5px;
+  	border-radius: 10px;
+  	border-color: White;s
+}
+
+#intro-text h3 {
+	font-size: 20px;
+	text-align: left;
+  	color: White;
+  	font-family: Helvetica;
+  	line-height: 160px;
+  	margin: -500px 0px 0px 0px;
+}
+
+#intro-text ul {
+	margin: 0;
+  	padding: 0;
+  	list-style: circle;
+  	margin: -50px 0px 0px 50px;
+  	color: white;
+}
+
+#intro-text p {
+  	width: 150px;
+  	background-color: #001f3f;
+  	text-align: left;
+  	font-family: Helvetica;
+  	font-size: 20px;
+  	height: 37px;
+  	line-height: 37px;
+  	color: white;
+  	
+}
+
+#media h3 {
+	font-size: 20px;
+	text-align: left;
+  	color: White;
+  	font-family: Helvetica;
+  	line-height: 160px;
+  	margin: 150px 0px 0px 0px;
+}
+
+#main-header-image1 img {
+  height: 70px;
+  width: 70px;
+  float: right;
+  margin: -50px 1250px 0px 0px;
+  /*right: 25px;
+  top: 25px;*/
+}
+
+#main-header-image2 img {
+  height: 70px;
+  width: 70px;
+  float: right;
+  margin: -70px 1335px 0px 0px;
+  /*right: 25px;
+  top: 25px;*/
+}
